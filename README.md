@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayman-samir&label=Profile%20views&color=0e75b6&style=flat" alt="ayman-samir" /> </p>
 
-- 🌱 I’m currently learning **c#,Entity Framework ,ASP.Net Core MVC**
+- 🌱 I’m currently working as full stack developer in RareCrew 
 
-- 💬 Ask me about **Javascript,Angular,HTML,CSS,NODE.JS**
+- 💬 Ask me about **Javascript,Angular,HTML,CSS,C#,LINQ,Sql Server,.Net Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
